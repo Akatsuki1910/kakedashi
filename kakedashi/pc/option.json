@@ -1,0 +1,14 @@
+{
+    "frame":["../pic/frame.png"],
+    "button":["../pic/button.png"],
+    "select":["../pic/select.png"],
+    "start":["../pic/start.png"],
+    "title":["../pic/title.png"],
+    "floor":["../pic/floor.png"],
+    "block":["../pic/block.png"],
+    "yusya":{
+        "body":["../pic/yusya/body.png"],
+        "shield":["../pic/yusya/shield.png"],
+        "sword":["../pic/yusya/sword.png"]
+    }
+}

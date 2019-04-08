@@ -1,0 +1,19 @@
+.pixiview-can{
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.monitor {
+    position: absolute;
+    background-color: #3DC7FF;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:black;
+    overflow: hidden;
+}
